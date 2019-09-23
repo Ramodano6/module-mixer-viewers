@@ -1,3 +1,3 @@
 # CastHub Module - Mixer Viewers
 
-To understand more about this scaffolding, visit [here](https://casthub.app/docs/template-scaffolding)
+This is the source for the CastHub Mixer Viewers Module.
